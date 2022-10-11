@@ -1,6 +1,6 @@
 # Google-Research-Football
 
-This code trains an agent to play in the Google Reasearch Football environment. This environment is challenging in that it has stochastic behavior meaning there is randomness in both the environment and the AI players' actions, and that it supports multi-agent mode where each player of a team can be simultaneously controlled by its corresponding agents. 
+This code trains an agent to play in the Google Reasearch Football environment. This environment is challenging in that it has stochastic behavior (randomness in both the environment and the AI players' actions), and that it supports multi-agent mode where each player of a team can be simultaneously controlled by its corresponding agents. 
 <p align="center">
   <img width="800" height="300" src="https://user-images.githubusercontent.com/97519387/195132179-35b4a49e-506a-4106-bfe8-55ead013e19a.png">
 </p>
