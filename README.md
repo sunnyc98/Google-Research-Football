@@ -19,7 +19,7 @@ After loads of trial and errors, we devised the following final strategies that 
   <img width="700" height="300" src="https://user-images.githubusercontent.com/97519387/195132681-7c9c90a3-9325-4553-85c2-3d86280ecc84.png">
 </p>
 
-Some of the results are shown below:
+Some evaluation results are very briefly shown below:
 <p align="center">
   <img width="350" height="240" src="https://user-images.githubusercontent.com/97519387/195133440-cae53a75-a52e-41da-908b-366001ca3095.png"> <img width="400" height="240" src="https://user-images.githubusercontent.com/97519387/195133257-d66a3c2d-6d12-425b-a28b-8e5dc7961a01.png">
 </p>
